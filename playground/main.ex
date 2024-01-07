@@ -4,5 +4,5 @@ defmodule Playground do
     a * b
   end
 
-  def area_of_circle!(r), do: 3.14 * r * r
+  def area_of_circle(r), do: 3.14 * r * r
 end
