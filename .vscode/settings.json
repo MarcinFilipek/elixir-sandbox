@@ -13,7 +13,7 @@
   "editor.formatOnType": true,
 
   // Misc
-  "editor.wordBasedSuggestions": false,
+  "editor.wordBasedSuggestions": "off",
   "editor.trimAutoWhitespace": false,
   "editor.fontSize": 14
 }
